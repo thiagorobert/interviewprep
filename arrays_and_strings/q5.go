@@ -1,7 +1,7 @@
 package main
 
 import (
-	"thiutil"
+	"github.com/thiagorobert/interviewprep/thiutil"
 	"fmt"
 )
 

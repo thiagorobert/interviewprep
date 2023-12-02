@@ -4,7 +4,7 @@ package main
 
 import (
 "strings"
-"thiutil"
+"github.com/thiagorobert/interviewprep/thiutil"
 "fmt"
 )
 

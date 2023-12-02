@@ -5,7 +5,7 @@ package main
 import (
 	"fmt"
 	"strings"
-	"thiutil"
+	"github.com/thiagorobert/interviewprep/thiutil"
 )
 
 func check_unique_chars(text string) {
